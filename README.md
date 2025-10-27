@@ -1,15 +1,19 @@
 <!-- 🌌 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1500&color=8A2BE2&center=true&width=700&lines=🌙+Welcome+to+My+GitHub+Portfolio!;💻+7OOP+Projects+and+Labs;🚀+Charles+Ken+D.+Pineda" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1500&color=8A2BE2&center=true&width=700&lines=🌙+Welcome+to+My+GitHub+Portfolio!;💻+7OOP+Projects+and+Lab+Tasks" alt="Typing Animation" />
 </p>
-
-<h1 align="center">✨ Charles Ken D. Pineda ✨</h1>
-<p align="center">7OOP Projects | Object-Oriented Programming Portfolio</p>
 
 <!-- 🌀 Animated Glowing Border Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,18,20,24,26&height=120&section=header&animation=twinkling&fontColor=FFFFFF&text=🌌%20Charles%20Ken%20D.%20Pineda%20🌌&fontSize=35&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,10,12,18,20,24,26&text=🌟%20Charles%20Ken%20D.%20Pineda%20🌟&fontAlign=50&fontAlignY=35&fontSize=30&animation=twinkling&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,10,12,18,20,24,26&text=7OOP%20%7C%20Object-Oriented%20Programming%20Portfolio&fontAlign=50&fontAlignY=10&fontSize=20&animation=twinkling&fontColor=FFFFFF&reversal=true" />
 </p>
+
+
+
+
+
+
 
 
 ---
@@ -71,7 +75,7 @@ I’m a Computer Science student, still learning and growing every day.
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">⭐ Thank you for visiting my GitHub Portfolio! ⭐</p>
+<p align="center">🌟 Thank you for visiting my GitHub Portfolio! 🌟</p>
 
 ---
 
