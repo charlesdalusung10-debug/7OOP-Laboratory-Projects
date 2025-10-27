@@ -17,11 +17,13 @@
 
 ## 🛠️ Projects
 
-### 📘 Midterms
-- [Project 1 🚧](#)  
-- [Project 2 🚧](#)  
+## 📘 Midterms
+- [Paired Task 1 – Object Oriented Analysis](https://docs.google.com/document/d/1Z5xPeN6yxOkU2sjqdNXtnrStvA3f-t3HpdNqW_Fkyfc/edit?usp=sharing)
+- [Lab 2 – ](Midterms/Lab2/main.java)
+- [Lab 3 –](Midterms/Lab3/main.java)
 
-### 🎓 Finals
+
+## 🎓 Finals
 - [Project 1 🚧](#)  
 - [Project 2 🚧](#)  
 
