@@ -1,44 +1,73 @@
-# 🌟 Welcome to My 7OOP Lab Portfolio
+<!-- 🌌 Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1500&color=58A6FF&center=true&width=700&lines=🌙+Welcome+to+My+GitHub+Portfolio!;💻+7OOP+Projects+and+Labs;🚀+Charles+Ken+D.+Pineda" alt="Typing Animation" />
+</p>
 
-<div align="center">
-  <img height="200" src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/447674591_1623974721685219_6056443241634288603_n.jpg?_nc_cat=101&cb=99be929b-7bdcbe47&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGyp15pRDg80lmoE0v1BuFl8nyfc6T0EUzyfJ9zpPQRTGqF1vOE0PzZnJ8u78cm-kYLv-CZ48oantYs6jhY63q4&_nc_ohc=7BEXHo_JiMUQ7kNvwHNdV1P&_nc_oc=AdlgYdrjS39i3jh7-j4oQDlXU6ZFJPrqDX6M5DDFTz-ep_PPP3ERA4Z2Y33v16HH7E0&_nc_zt=23&_nc_ht=scontent.fmnl17-1.fna&_nc_gid=S-JvebOrAL8gZKv_e8UeKQ&oh=00_AfUNjkzEWAW0XOgEc90Aj5Ihr7EfV0v_rmCkpCdQEdPCSg&oe=68B74606"  />
-</div>
+<h1 align="center">Charles Ken D. Pineda</h1>
+<p align="center">7OOP Projects | Object-Oriented Programming Portfolio</p>
 
-## 👨‍🎓 About Me
-### 🤝 Hi! I’m Charles Ken D. Pineda from BSCS-C204 at City College of Angeles.I’m a Computer Science student, still learning and growing every day.
+<!-- 🌀 Animated Glowing Border Photo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charlespineda/7OOP-Portfolio/main/profile-glow.svg" width="300" />
+</p>
 
-## 🎯 Area of Interest & Programming Languages
- 🧩-Object-Oriented Programming
- 🤖-Artificial Intelligence
- 🌐-Networking
-## 💻 Languages I know 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-## 🛠️ Projects
+## 👨‍🎓 About Me  
+### 🤝 Hi! I’m Charles Ken D. Pineda from BSCS-C204 at City College of Angeles.  
+I’m a Computer Science student, still learning and growing every day.
 
-## 📘 Midterms
-- [Paired Task 1 – Object Oriented Analysis](https://docs.google.com/document/d/1Z5xPeN6yxOkU2sjqdNXtnrStvA3f-t3HpdNqW_Fkyfc/edit?usp=sharing)
-- [Lab 2 – ](Midterms/Lab2/main.java)
-- [Lab 3 –](Midterms/Lab3/main.java)
+---
 
+## 🎯 Area of Interest & Programming Languages  
 
-## 🎓 Finals
-- [Project 1 🚧](#)  
-- [Project 2 🚧](#)  
+### 🧠 Areas of Interest  
+- 🧩 Object-Oriented Programming  
+- 🤖 Artificial Intelligence  
+- 🌐 Networking  
 
+### 💬 Programming Languages I Use  
 
-## 😎 Fun Facts About Me
-☕️ Coffee helps me focus.   
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🛠️ Projects  
+
+### 📘 Midterm Lab Tasks
+- [Paired Task 1:Object Oriented Analysis](https://docs.google.com/document/d/1Z5xPeN6yxOkU2sjqdNXtnrStvA3f-t3HpdNqW_Fkyfc/edit?usp=sharing)
+- [Lab Task 1:](https://docs.google.com/document/d/1jT9ljDFKy4OfyxzEn6Fix6EvszSWcdYoQplOcnhwwRw/edit?usp=sharing)
+- [Lab Task 2:Using Loops and Functions](https://docs.google.com/document/d/1rPUN77jDa0AWRkXd8t7x5yVGbOFAA3BJZJAQRCMunnU/edit?usp=sharing)
+- [Lab Task 3:Using List Collection Types](https://docs.google.com/document/d/1AoFVjB94-fTtyzc9gSbNlSHvTVX4oEK-lWLoXhsqnEo/edit?usp=sharing)
+- [Lab Task 4:Using Dictionaries](https://docs.google.com/document/d/1wnsipCe86YsALIY5bALIsf7p6LH1JcJ25NWGIdBG3II/edit?usp=sharing)
+- [Lab Task 5:](https://docs.google.com/document/d/1vaXryl6mt4R2aErWwzS4_RO6rnmXLU6MdIgM4Ca0Kp0/edit?usp=sharing)
+
+---
+
+### 🎓 Final Lab Tasks
+- [Lab Task 1:Encapsulation](https://docs.google.com/document/d/1r4eB2SddHEQyA9VkQSuRDToHAnIT6t-y8OEKzGwR-Bc/edit?usp=sharing)  
+- [Project 2 🚧](#)
+
+---
+
+## 😎 Fun Facts About Me  
+☕ Coffee helps me focus.  
 🎧 Music helps me concentrate.  
 🏀🎱 I love playing basketball and billiards to relieve stress.  
 🛵🚗 I enjoy going on rides for fun and relaxation.  
 🎬 I can rewatch movies and still enjoy them.
 
-## 📱 Contact With Me  
+---
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/charles.0044/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/charlesdalusung/)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@charlespineda90)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+## 📱 Connect With Me  
 
+<p align="center">
+  <a href="https://www.facebook.com/charles.0044/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/charlesdalusung/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@charlespineda90"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">⭐ Thank you for visiting my GitHub Portfolio! ⭐</p>
