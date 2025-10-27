@@ -1,14 +1,14 @@
 <!-- 🌌 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1500&color=58A6FF&center=true&width=700&lines=🌙+Welcome+to+My+GitHub+Portfolio!;💻+7OOP+Projects+and+Labs;🚀+Charles+Ken+D.+Pineda" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1500&color=8A2BE2&center=true&width=700&lines=🌙+Welcome+to+My+GitHub+Portfolio!;💻+7OOP+Projects+and+Labs;🚀+Charles+Ken+D.+Pineda" alt="Typing Animation" />
 </p>
 
-<h1 align="center">Charles Ken D. Pineda</h1>
+<h1 align="center">✨ Charles Ken D. Pineda ✨</h1>
 <p align="center">7OOP Projects | Object-Oriented Programming Portfolio</p>
 
-<!-- 🌀 Animated Glowing Border Photo -->
+<!-- 🌀 Animated Glowing Border Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charlespineda/7OOP-Portfolio/main/profile-glow.svg" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,14,16,18&height=120&section=header&text=🌌%20Charles%20Ken%20D.%20Pineda%20🌌&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </p>
 
 ---
@@ -37,17 +37,17 @@ I’m a Computer Science student, still learning and growing every day.
 ## 🛠️ Projects  
 
 ### 📘 Midterm Lab Tasks
-- [Paired Task 1:Object Oriented Analysis](https://docs.google.com/document/d/1Z5xPeN6yxOkU2sjqdNXtnrStvA3f-t3HpdNqW_Fkyfc/edit?usp=sharing)
-- [Lab Task 1:](https://docs.google.com/document/d/1jT9ljDFKy4OfyxzEn6Fix6EvszSWcdYoQplOcnhwwRw/edit?usp=sharing)
-- [Lab Task 2:Using Loops and Functions](https://docs.google.com/document/d/1rPUN77jDa0AWRkXd8t7x5yVGbOFAA3BJZJAQRCMunnU/edit?usp=sharing)
-- [Lab Task 3:Using List Collection Types](https://docs.google.com/document/d/1AoFVjB94-fTtyzc9gSbNlSHvTVX4oEK-lWLoXhsqnEo/edit?usp=sharing)
-- [Lab Task 4:Using Dictionaries](https://docs.google.com/document/d/1wnsipCe86YsALIY5bALIsf7p6LH1JcJ25NWGIdBG3II/edit?usp=sharing)
-- [Lab Task 5:](https://docs.google.com/document/d/1vaXryl6mt4R2aErWwzS4_RO6rnmXLU6MdIgM4Ca0Kp0/edit?usp=sharing)
+- [Paired Task 1: Object Oriented Analysis](https://docs.google.com/document/d/1Z5xPeN6yxOkU2sjqdNXtnrStvA3f-t3HpdNqW_Fkyfc/edit?usp=sharing)
+- [Lab Task 1](https://docs.google.com/document/d/1jT9ljDFKy4OfyxzEn6Fix6EvszSWcdYoQplOcnhwwRw/edit?usp=sharing)
+- [Lab Task 2: Using Loops and Functions](https://docs.google.com/document/d/1rPUN77jDa0AWRkXd8t7x5yVGbOFAA3BJZJAQRCMunnU/edit?usp=sharing)
+- [Lab Task 3: Using List Collection Types](https://docs.google.com/document/d/1AoFVjB94-fTtyzc9gSbNlSHvTVX4oEK-lWLoXhsqnEo/edit?usp=sharing)
+- [Lab Task 4: Using Dictionaries](https://docs.google.com/document/d/1wnsipCe86YsALIY5bALIsf7p6LH1JcJ25NWGIdBG3II/edit?usp=sharing)
+- [Lab Task 5](https://docs.google.com/document/d/1vaXryl6mt4R2aErWwzS4_RO6rnmXLU6MdIgM4Ca0Kp0/edit?usp=sharing)
 
 ---
 
 ### 🎓 Final Lab Tasks
-- [Lab Task 1:Encapsulation](https://docs.google.com/document/d/1r4eB2SddHEQyA9VkQSuRDToHAnIT6t-y8OEKzGwR-Bc/edit?usp=sharing)  
+- [Lab Task 1: Encapsulation](https://docs.google.com/document/d/1r4eB2SddHEQyA9VkQSuRDToHAnIT6t-y8OEKzGwR-Bc/edit?usp=sharing)  
 - [Project 2 🚧](#)
 
 ---
@@ -71,3 +71,9 @@ I’m a Computer Science student, still learning and growing every day.
 </p>
 
 <p align="center">⭐ Thank you for visiting my GitHub Portfolio! ⭐</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,15,18,22,24&height=100&section=footer&animation=twinkling" />
+</p>
