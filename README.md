@@ -8,8 +8,9 @@
 
 <!-- 🌀 Animated Glowing Border Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,14,16,18&height=120&section=header&text=🌌%20Charles%20Ken%20D.%20Pineda%20🌌&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,18,20,24,26&height=120&section=header&animation=twinkling&fontColor=FFFFFF&text=🌌%20Charles%20Ken%20D.%20Pineda%20🌌&fontSize=35&fontAlignY=40" />
 </p>
+
 
 ---
 
@@ -75,5 +76,6 @@ I’m a Computer Science student, still learning and growing every day.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,15,18,22,24&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,18,20,24,26&height=120&section=footer&animation=twinkling&fontColor=FFFFFF" />
 </p>
+
